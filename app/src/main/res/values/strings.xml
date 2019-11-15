@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RefactorApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_label_click_me">Click Me</string>
+</resources>
